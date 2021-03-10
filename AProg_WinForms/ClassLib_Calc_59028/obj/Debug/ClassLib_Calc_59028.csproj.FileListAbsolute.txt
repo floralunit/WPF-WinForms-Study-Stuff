@@ -1,0 +1,9 @@
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\bin\Debug\ClassLib_Calc_59028.exe.config
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\bin\Debug\ClassLib_Calc_59028.exe
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\bin\Debug\ClassLib_Calc_59028.pdb
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\ClassLib_Calc_59028.csprojAssemblyReference.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\ClassLib_Calc_59028.Properties.Resources.resources
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\ClassLib_Calc_59028.csproj.GenerateResource.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\ClassLib_Calc_59028.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\ClassLib_Calc_59028.exe
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\ClassLib_Calc_59028.pdb
