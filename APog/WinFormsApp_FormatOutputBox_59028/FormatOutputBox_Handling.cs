@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
+using WinFormsApp_FormatOutputBox_59028.Properties;
 
 namespace WinFormsApp_FormatOutputBox
 {
@@ -17,14 +15,16 @@ namespace WinFormsApp_FormatOutputBox
             public bool Load_Invoking(ref RichTextBox consoleOut, ref PictureBox pic) //####
             {  // получаем имя текущего класса и загружаем по имени этого ресурса
                 string str_class_name = this.GetType().Name; // ресурс с таким именем должен существовать!
-                                                             // pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
+                //pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
+                object O = Resources.ResourceManager.GetObject(str_class_name);
+                pic.Image = (Image)O;
                 consoleOut.AppendText("Никаких действий не инициализировано.");
                 return true;
             }
             //####################################################################
             public bool Run_Executing(int? a, int? b, ref RichTextBox consoleOut) //##########
             {
-                string str = String.Format("\nВыполнение действия \"0\"");
+                string str = String.Format("\nДействий нет!");
                 return true;
             }
             //####################################################################
@@ -38,14 +38,16 @@ namespace WinFormsApp_FormatOutputBox
             public bool Load_Invoking(ref RichTextBox consoleOut, ref PictureBox pic) //####
             {  // получаем имя текущего класса и загружаем по имени этого ресурса
                 string str_class_name = this.GetType().Name; // ресурс с таким именем должен существовать!
-                //pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
-                consoleOut.AppendText("Инициализировано действие >>!");
+                                                             // pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
+                object O = Resources.ResourceManager.GetObject(str_class_name);
+                pic.Image = (Image)O;
+                consoleOut.AppendText("Инициализировано действие >> (битовый сдвиг вправо)!");
                 return true;
             }
             //####################################################################
             public bool Run_Executing(int? a, int? b, ref RichTextBox consoleOut) //##########
             {  // если под каждую подстановку резервируется 4 символа: {0,4}* { 1,4}+ { 2,4}
-                string str = String.Format("\nВыполнение действия \"2\":\n{0}^ { 1} = { 2}", a, b, a >> b);
+                string str = String.Format("\nВыполнение действия >>:\n{0,4}  >>{1,4}  ={2,4}", a, b, a >> b);
                 consoleOut.AppendText(str);
                 return true;
             }
@@ -60,14 +62,16 @@ namespace WinFormsApp_FormatOutputBox
             public bool Load_Invoking(ref RichTextBox consoleOut, ref PictureBox pic) //####
             {  // получаем имя текущего класса и загружаем по имени этого ресурса
                 string str_class_name = this.GetType().Name; // ресурс с таким именем должен существовать!
-                                                             // pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
-                consoleOut.AppendText("Инициализировано действие >>=!");
+                // pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
+                object O = Resources.ResourceManager.GetObject(str_class_name);
+                pic.Image = (Image)O;
+                consoleOut.AppendText("Инициализировано действие >>= (битовый сдвиг вправо с приравниванием)!");
                 return true;
             }
             //####################################################################
             public bool Run_Executing(int? a, int? b, ref RichTextBox consoleOut) //##########
             {  // если под каждую подстановку резервируется 4 символа: {0,4}* { 1,4}+ { 2,4}
-               string str = String.Format("\nВыполнение действия \"2\":\n{0}>>={ 1} = { 2}", a, b, a >>= b);
+                string str = String.Format("\nВыполнение действия >>=:\n{0,4}  >>={1,4}  ={2,4}", a, b, a >>= b);
                 consoleOut.AppendText(str);
                 return true;
             }
@@ -83,13 +87,15 @@ namespace WinFormsApp_FormatOutputBox
             {  // получаем имя текущего класса и загружаем по имени этого ресурса
                 string str_class_name = this.GetType().Name; // ресурс с таким именем должен существовать!
                 //pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
-                consoleOut.AppendText("Инициализировано действие ^!");
+                object O = Resources.ResourceManager.GetObject(str_class_name);
+                pic.Image = (Image)O;
+                consoleOut.AppendText("Инициализировано действие ^ (исключающее ИЛИ)!");
                 return true;
             }
             //####################################################################
             public bool Run_Executing(int? a, int? b, ref RichTextBox consoleOut) //##########
             {  // если под каждую подстановку резервируется 3 символа: {0,3}+ { 1,3}+ { 2,3}
-                string str = String.Format("\nВыполнение действия \"1\":\n{0}+ { 1} = { 2}", a, b, a ^ b);
+                string str = String.Format("\nВыполнение действия ^:\n{0,4}  ^{1,4}  ={2,4}", a, b, a ^ b);
                 consoleOut.AppendText(str); // форматный вывод строки 
                 return true;
             }
@@ -104,14 +110,16 @@ namespace WinFormsApp_FormatOutputBox
             public bool Load_Invoking(ref RichTextBox consoleOut, ref PictureBox pic) //####
             {  // получаем имя текущего класса и загружаем по имени этого ресурса
                 string str_class_name = this.GetType().Name; // ресурс с таким именем должен существовать!
-                                                             // pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
-                consoleOut.AppendText("Инициализировано действие ^=!");
+                // pic.Image = (Image)Properties.Resources.ResourceManager.GetObject(str_class_name);
+                object O = Resources.ResourceManager.GetObject(str_class_name);
+                pic.Image = (Image)O;
+                consoleOut.AppendText("Инициализировано действие ^= (исключающее ИЛИ с приравниванием)!");
                 return true;
             }
             //####################################################################
             public bool Run_Executing(int? a, int? b, ref RichTextBox consoleOut) //##########
             {  // если под каждую подстановку резервируется 4 символа: {0,4}* { 1,4}+ { 2,4}
-                string str = String.Format("\nВыполнение действия \"2\":\n{0}* { 1} = { 2}", a, b, a ^= b);
+                string str = String.Format("\nВыполнение действия ^=:\n{0,4}  ^={1,4}  ={2,4}", a, b, a ^= b);
                 consoleOut.AppendText(str);
                 return true;
             }
@@ -120,4 +128,4 @@ namespace WinFormsApp_FormatOutputBox
     }
 
 }
-    
+
