@@ -49,6 +49,15 @@ namespace WinFormsApp_FormatOutputBox
             {  // если под каждую подстановку резервируется 4 символа: {0,4}* { 1,4}+ { 2,4}
                 string str = String.Format("\nВыполнение действия >>:\n{0,4}  >>{1,4}  ={2,4}", a, b, a >> b);
                 consoleOut.AppendText(str);
+                int? c = a>>b;
+                if (Math.Abs((decimal)c) > 150)
+                {
+                    MessageBox.Show(
+            "Ошибка #322! Число больше 150 по модулю.",
+            ":(",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Error);
+                }
                 return true;
             }
             //####################################################################
@@ -73,6 +82,15 @@ namespace WinFormsApp_FormatOutputBox
             {  // если под каждую подстановку резервируется 4 символа: {0,4}* { 1,4}+ { 2,4}
                 string str = String.Format("\nВыполнение действия >>=:\n{0,4}  >>={1,4}  ={2,4}", a, b, a >>= b);
                 consoleOut.AppendText(str);
+                int? c = a >>= b;
+                if (Math.Abs((decimal)c) > 150)
+                {
+                    MessageBox.Show(
+            "Ошибка #322! Число больше 150 по модулю.",
+            ":(",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Error);
+                }
                 return true;
             }
             //####################################################################
@@ -97,6 +115,15 @@ namespace WinFormsApp_FormatOutputBox
             {  // если под каждую подстановку резервируется 3 символа: {0,3}+ { 1,3}+ { 2,3}
                 string str = String.Format("\nВыполнение действия ^:\n{0,4}  ^{1,4}  ={2,4}", a, b, a ^ b);
                 consoleOut.AppendText(str); // форматный вывод строки 
+                int? c = a ^ b;
+                if (Math.Abs((decimal)c) > 100)
+                {
+                    MessageBox.Show(
+            "Ошибка #322! Число больше 100 по модулю.",
+            ":(",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Error);
+                }
                 return true;
             }
             //####################################################################
@@ -121,6 +148,15 @@ namespace WinFormsApp_FormatOutputBox
             {  // если под каждую подстановку резервируется 4 символа: {0,4}* { 1,4}+ { 2,4}
                 string str = String.Format("\nВыполнение действия ^=:\n{0,4}  ^={1,4}  ={2,4}", a, b, a ^= b);
                 consoleOut.AppendText(str);
+                int? c = a ^= b;
+                if (Math.Abs((decimal)c) > 100)
+                {
+                    MessageBox.Show(
+            "Ошибка #322! Число больше 100 по модулю.",
+            ":(",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Error);
+                }
                 return true;
             }
             //####################################################################
