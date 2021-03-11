@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using WinFormsApp_FormatOutputBox;
 
@@ -31,12 +24,12 @@ namespace WinFormsApp_FormatOutputBox_59028
 
         private void button_Evaluate_Click(object sender, EventArgs e)
         {
-            int _A = Convert.ToInt16(textBox_A.Text);
-            int _B = Convert.ToInt16(textBox_B.Text);
-            //if (_A != null && _B != null)
-            // {
-            _outputBox.Execute_Data(_A, _B);// выполняем действие в зависимости от выбранной операции
-            //}
+            int? _A = Convert.ToInt16(textBox_A.Text);
+            int? _B = Convert.ToInt16(textBox_B.Text);
+            if (_A != null && _B != null)
+            {
+                _outputBox.Execute_Data(_A, _B);// выполняем действие в зависимости от выбранной операции
+            }
         }
 
         private void textBox_A_TextChanged(object sender, EventArgs e)
@@ -57,11 +50,11 @@ namespace WinFormsApp_FormatOutputBox_59028
             int value;
             if (Int32.TryParse(textBox_B.Text, out value))
             {
-                _A = value; // обновляем переменную класса, если парсинг выполнен 
+                _B = value; // обновляем переменную класса, если парсинг выполнен 
             }
             else
             {
-                _A = null; // преобразование не было выполнено 
+                _B = null; // преобразование не было выполнено 
             }
         }
 

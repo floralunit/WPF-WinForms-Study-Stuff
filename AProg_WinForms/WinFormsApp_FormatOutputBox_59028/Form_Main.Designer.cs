@@ -45,6 +45,7 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // groupBox_Input
             // 
+            this.groupBox_Input.BackColor = System.Drawing.Color.WhiteSmoke;
             this.groupBox_Input.Controls.Add(this.pictureBox_Preview);
             this.groupBox_Input.Controls.Add(this.listBox_Input);
             this.groupBox_Input.Controls.Add(this.label_B);
@@ -60,6 +61,7 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // pictureBox_Preview
             // 
+            this.pictureBox_Preview.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox_Preview.Image = global::WinFormsApp_FormatOutputBox_59028.Properties.Resources.Operation_None;
             this.pictureBox_Preview.InitialImage = global::WinFormsApp_FormatOutputBox_59028.Properties.Resources.Operation_None;
             this.pictureBox_Preview.Location = new System.Drawing.Point(454, 106);
@@ -70,6 +72,7 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // listBox_Input
             // 
+            this.listBox_Input.BackColor = System.Drawing.Color.PeachPuff;
             this.listBox_Input.FormattingEnabled = true;
             this.listBox_Input.ItemHeight = 20;
             this.listBox_Input.Items.AddRange(new object[] {
@@ -104,6 +107,7 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // textBox_B
             // 
+            this.textBox_B.BackColor = System.Drawing.Color.PeachPuff;
             this.textBox_B.Location = new System.Drawing.Point(561, 197);
             this.textBox_B.Name = "textBox_B";
             this.textBox_B.Size = new System.Drawing.Size(125, 27);
@@ -113,6 +117,7 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // textBox_A
             // 
+            this.textBox_A.BackColor = System.Drawing.Color.PeachPuff;
             this.textBox_A.Location = new System.Drawing.Point(561, 40);
             this.textBox_A.Name = "textBox_A";
             this.textBox_A.Size = new System.Drawing.Size(125, 27);
@@ -122,6 +127,8 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // richTextBox_Output
             // 
+            this.richTextBox_Output.BackColor = System.Drawing.Color.Pink;
+            this.richTextBox_Output.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.richTextBox_Output.Location = new System.Drawing.Point(12, 12);
             this.richTextBox_Output.Name = "richTextBox_Output";
             this.richTextBox_Output.ReadOnly = true;
@@ -131,28 +138,31 @@ namespace WinFormsApp_FormatOutputBox_59028
             // 
             // button_Evaluate
             // 
+            this.button_Evaluate.BackColor = System.Drawing.Color.Pink;
             this.button_Evaluate.Location = new System.Drawing.Point(12, 538);
             this.button_Evaluate.Name = "button_Evaluate";
             this.button_Evaluate.Size = new System.Drawing.Size(347, 29);
             this.button_Evaluate.TabIndex = 7;
             this.button_Evaluate.Text = "Выполнить расчет";
-            this.button_Evaluate.UseVisualStyleBackColor = true;
+            this.button_Evaluate.UseVisualStyleBackColor = false;
             this.button_Evaluate.Click += new System.EventHandler(this.button_Evaluate_Click);
             // 
             // button_Clear
             // 
+            this.button_Clear.BackColor = System.Drawing.Color.PeachPuff;
             this.button_Clear.Location = new System.Drawing.Point(376, 540);
             this.button_Clear.Name = "button_Clear";
             this.button_Clear.Size = new System.Drawing.Size(347, 29);
             this.button_Clear.TabIndex = 8;
             this.button_Clear.Text = "Очистить";
-            this.button_Clear.UseVisualStyleBackColor = true;
+            this.button_Clear.UseVisualStyleBackColor = false;
             this.button_Clear.Click += new System.EventHandler(this.button_Clear_Click);
             // 
             // form_Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Snow;
             this.ClientSize = new System.Drawing.Size(735, 581);
             this.Controls.Add(this.button_Clear);
             this.Controls.Add(this.button_Evaluate);
