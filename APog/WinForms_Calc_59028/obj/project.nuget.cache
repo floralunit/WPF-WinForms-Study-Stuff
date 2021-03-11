@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "9+N5vvrb4zVT6JsuWlgdztsBPHjSu2zVa2KUhBgYmJOL8CjyQoVLf5qfZpaj+M2dDigegUEg41CCKwSQx4RbIw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\anya7\\Desktop\\Учёба\\Прикладное программирование\\WinForms_Calc_59028\\WinForms_Calc_59028.csproj",
+  "dgSpecHash": "MSbicfW7XBxDE14o+IF5JCuSOz1cHzL/JypxXUDcIyj9SNIhaMXfFszX6q+TACcs2Ma+8MdCU7PxozdxW2NZ1Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\WinForms_Calc_59028\\WinForms_Calc_59028.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }

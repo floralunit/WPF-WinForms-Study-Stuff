@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {
-      "СlassLib_Calc_59028/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/СlassLib_Calc_59028.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/СlassLib_Calc_59028.dll": {}
-        }
-      }
-    }
+    "net5.0-windows7.0": {}
   },
-  "libraries": {
-    "СlassLib_Calc_59028/1.0.0": {
-      "type": "project",
-      "path": "../СlassLib_Calc_59028/СlassLib_Calc_59028.csproj",
-      "msbuildProject": "../СlassLib_Calc_59028/СlassLib_Calc_59028.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "СlassLib_Calc_59028 >= 1.0.0"
+      "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj"
     ]
   },
   "packageFolders": {
@@ -34,11 +17,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anya7\\Desktop\\Учёба\\Прикладное программирование\\WinForms_Calc_59028\\WinForms_Calc_59028.csproj",
+      "projectUniqueName": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\WinForms_Calc_59028\\WinForms_Calc_59028.csproj",
       "projectName": "WinForms_Calc_59028",
-      "projectPath": "C:\\Users\\anya7\\Desktop\\Учёба\\Прикладное программирование\\WinForms_Calc_59028\\WinForms_Calc_59028.csproj",
+      "projectPath": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\WinForms_Calc_59028\\WinForms_Calc_59028.csproj",
       "packagesPath": "C:\\Users\\anya7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anya7\\Desktop\\Учёба\\Прикладное программирование\\WinForms_Calc_59028\\obj\\",
+      "outputPath": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\WinForms_Calc_59028\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,8 +43,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\anya7\\Desktop\\Учёба\\Прикладное программирование\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj": {
-              "projectPath": "C:\\Users\\anya7\\Desktop\\Учёба\\Прикладное программирование\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj"
+            "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj": {
+              "projectPath": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj"
             }
           }
         }
@@ -96,5 +79,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\anya7\\Documents\\GitHub\\AProg\\СlassLib_Calc_59028\\СlassLib_Calc_59028.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }
