@@ -1,0 +1,13 @@
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\bin\Debug\netcoreapp3.1\Massives.exe
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\bin\Debug\netcoreapp3.1\Massives.deps.json
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\bin\Debug\netcoreapp3.1\Massives.runtimeconfig.json
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\bin\Debug\netcoreapp3.1\Massives.runtimeconfig.dev.json
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\bin\Debug\netcoreapp3.1\Massives.dll
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\bin\Debug\netcoreapp3.1\Massives.pdb
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.AssemblyInfoInputs.cache
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.AssemblyInfo.cs
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.dll
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.pdb
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.genruntimeconfig.cache
+C:\Users\anya7\Desktop\DateStructures_YaskunovaAnna\obj\Debug\netcoreapp3.1\Massives.csprojAssemblyReference.cache
