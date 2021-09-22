@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Massives": {
+      "commandName": "Project"
+    },
+    "List": {
+      "commandName": "Project"
+    }
+  }
+}
