@@ -1,0 +1,15 @@
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.csprojAssemblyReference.cache
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication_MarkupCompile.cache
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication_MarkupCompile.lref
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\bin\Debug\WPFApplication.exe.config
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\bin\Debug\WPFApplication.exe
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\bin\Debug\WPFApplication.pdb
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.g.resources
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.Properties.Resources.resources
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.exe
+C:\Users\floralunit\source\repos\TestProject1\WPFApplication\obj\Debug\WPFApplication.pdb
