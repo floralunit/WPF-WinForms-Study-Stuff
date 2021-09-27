@@ -1,0 +1,14 @@
+C:\Users\floralunit\source\repos\Grid\Task2\bin\Debug\Task2.exe.config
+C:\Users\floralunit\source\repos\Grid\Task2\bin\Debug\Task2.exe
+C:\Users\floralunit\source\repos\Grid\Task2\bin\Debug\Task2.pdb
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.g.resources
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.exe
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.pdb
+C:\Users\floralunit\source\repos\Grid\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
