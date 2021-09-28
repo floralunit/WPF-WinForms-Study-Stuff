@@ -1,0 +1,14 @@
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\bin\Debug\WPFFocus.exe.config
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\bin\Debug\WPFFocus.exe
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\bin\Debug\WPFFocus.pdb
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.lref
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus.g.resources
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus.Properties.Resources.resources
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus.exe
+C:\Users\floralunit\source\repos\ControlElements_WPF\WPFFocus\obj\Debug\WPFFocus.pdb
