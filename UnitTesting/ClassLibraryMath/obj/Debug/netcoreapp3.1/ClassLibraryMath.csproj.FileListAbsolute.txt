@@ -1,0 +1,9 @@
+C:\Users\anya7\source\repos\ClassLibraryMath\bin\Debug\netcoreapp3.1\ClassLibraryMath.deps.json
+C:\Users\anya7\source\repos\ClassLibraryMath\bin\Debug\netcoreapp3.1\ClassLibraryMath.dll
+C:\Users\anya7\source\repos\ClassLibraryMath\bin\Debug\netcoreapp3.1\ClassLibraryMath.pdb
+C:\Users\anya7\source\repos\ClassLibraryMath\obj\Debug\netcoreapp3.1\ClassLibraryMath.csprojAssemblyReference.cache
+C:\Users\anya7\source\repos\ClassLibraryMath\obj\Debug\netcoreapp3.1\ClassLibraryMath.AssemblyInfoInputs.cache
+C:\Users\anya7\source\repos\ClassLibraryMath\obj\Debug\netcoreapp3.1\ClassLibraryMath.AssemblyInfo.cs
+C:\Users\anya7\source\repos\ClassLibraryMath\obj\Debug\netcoreapp3.1\ClassLibraryMath.csproj.CoreCompileInputs.cache
+C:\Users\anya7\source\repos\ClassLibraryMath\obj\Debug\netcoreapp3.1\ClassLibraryMath.dll
+C:\Users\anya7\source\repos\ClassLibraryMath\obj\Debug\netcoreapp3.1\ClassLibraryMath.pdb
