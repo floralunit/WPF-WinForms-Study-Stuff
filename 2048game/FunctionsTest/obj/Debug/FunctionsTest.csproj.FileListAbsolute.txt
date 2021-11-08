@@ -15,6 +15,5 @@ C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\bin\Debug\Microsoft.
 C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\obj\Debug\FunctionsTest.csproj.AssemblyReference.cache
 C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\obj\Debug\FunctionsTest.csproj.CoreCompileInputs.cache
-C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\obj\Debug\FunctionsTest.csproj.CopyComplete
 C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\obj\Debug\FunctionsTest.dll
 C:\Users\floralunit\Documents\GitHub\2048game\FunctionsTest\obj\Debug\FunctionsTest.pdb
