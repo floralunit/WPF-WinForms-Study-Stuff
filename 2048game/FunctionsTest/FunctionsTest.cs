@@ -8,10 +8,16 @@ namespace FunctionsTest
     public class FunctionsTest
     {
         [TestMethod]
-        public void functionsClassCreationTest()
+        public void functionClassCreationTest()
         {
             Function function = new Function();
             Assert.IsNotNull(function);
+        }
+        public void mergeTest ()
+        {
+            Function function = new Function();
+            string [] arr = {2.ToString(), 4.ToString(), 16.ToString()};
+            Assert.AreEqual(arr, function.Merge(arr));
         }
     }
 }
