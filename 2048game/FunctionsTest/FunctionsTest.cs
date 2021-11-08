@@ -20,5 +20,12 @@ namespace FunctionsTest
             string [] arr = {2.ToString(), 4.ToString(), 16.ToString()};
             Assert.AreEqual(arr, function.Merge(arr));
         }
+        [TestMethod]
+        public void transposeTest()
+        {
+            Function function = new Function();
+            string[,] doubleArr = { { 2.ToString(), 4.ToString(), 16.ToString() }, { 2.ToString(), 4.ToString(), 16.ToString() } };
+            Assert.AreEqual(doubleArr, function.Transpose(doubleArr));
+        }
     }
 }
