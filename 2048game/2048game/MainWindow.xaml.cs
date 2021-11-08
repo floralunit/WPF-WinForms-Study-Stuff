@@ -20,9 +20,15 @@ namespace _2048game
     /// </summary>
     public partial class MainWindow : Window
     {
+        const int COUNT = 4;
+        private string[][] map = new string[COUNT][];
         public MainWindow()
         {
+            Init();
             InitializeComponent();
+            lst.ItemsSource = map;
         }
+
+       
     }
 }

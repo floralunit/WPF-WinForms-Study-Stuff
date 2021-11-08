@@ -8,7 +8,6 @@ namespace _2048game
 {
     public class Function
     {
-        string[] arr = { 2.ToString(), 4.ToString(), 16.ToString() };
         
         public string[] Merge(string[] arr)
         {
@@ -56,7 +55,6 @@ namespace _2048game
         }
         public string[][] Transpose(string[][] doubleArr)
         {
-            string[][] doubleArr = new string[16][];
             int row = doubleArr.Length;
             int col = doubleArr[0].Length;
             string[][] result = new string[row][];
