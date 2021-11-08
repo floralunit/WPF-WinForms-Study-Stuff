@@ -1,0 +1,15 @@
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\bin\Debug\2048game.exe.config
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\bin\Debug\2048game.exe
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\bin\Debug\2048game.pdb
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game.csproj.AssemblyReference.cache
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\App.g.cs
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game_MarkupCompile.cache
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game_MarkupCompile.lref
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\MainWindow.baml
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game.g.resources
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\_2048game.Properties.Resources.resources
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game.csproj.GenerateResource.cache
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game.exe
+C:\Users\floralunit\Documents\GitHub\2048game\2048game\obj\Debug\2048game.pdb

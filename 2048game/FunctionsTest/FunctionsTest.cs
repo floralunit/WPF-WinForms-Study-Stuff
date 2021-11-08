@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using _2048game;
 using System;
 
 namespace FunctionsTest
