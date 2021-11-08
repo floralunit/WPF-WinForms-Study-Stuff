@@ -62,6 +62,92 @@ namespace _2048game
             int[] position = available[random.Next(available.Count())];
             map[position[0]][position[1]] = random.Next(1) == 0 ? "2" : "4";
         }
+        protected override void OnKeyDown(KeyEventArgs e)
+        {
+            switch (e.Key.ToString())
+            {
+                case "Up":
+                    map = Transpose(Transpose(map).Select(Merge).ToArray());
+                    break;
+                case "Right":
+                    map = map.Select(p => Merge(p.Reverse().ToArray()).Reverse().ToArray()).ToArray();
+                    break;
+                case "Down":
+                    map = Transpose(Transpose(map).Select(p => Merge(p.Reverse().ToArray()).Reverse().ToArray()).ToArray());
+                    break;
+                case "Left":
+                    map = map.Select(Merge).ToArray();
+                    break;
+                default:
+                    break;
+            }
 
+            lst.ItemsSource = map;
+            genRandom();
+        }
+        private string[] Merge(string[] arr)
+        {
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if (arr[i] != "")
+                {
+                    int k = i;
+                    for (int j = i - 1; j >= 0; j--)
+                    {
+                        if (arr[j] != "")
+                        {
+                            k = j;
+                            break;
+                        }
+                    }
+
+                    if (k != i)
+                    {
+                        if (arr[i] == arr[k])
+                        {
+                            arr[k] = (int.Parse(arr[i]) * 2).ToString();
+                            arr[i] = "";
+                        }
+                        else
+                        {
+                            if (i - k > 1)
+                            {
+                                arr[k + 1] = arr[i];
+                                arr[i] = "";
+                            }
+                        }
+
+                    }
+                    else
+                    {
+                        arr[0] = arr[i];
+                        arr[i] = "";
+                    }
+
+
+                }
+            }
+            return arr;
+        }
+
+        private string[][] Transpose(string[][] doubleArr)
+        {
+            int row = doubleArr.Length;
+            int col = doubleArr[0].Length;
+            string[][] result = new string[row][];
+            for (int i = 0; i < row; i++)
+            {
+                result[i] = new string[col];
+            }
+            for (int i = 0; i < row; i++)
+            {
+                for (int j = 0; j < col; j++)
+                {
+                    result[j][i] = doubleArr[i][j];
+                }
+            }
+
+            return result;
+        }
     }
 }
