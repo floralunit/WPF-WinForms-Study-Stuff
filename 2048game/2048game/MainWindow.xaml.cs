@@ -28,7 +28,40 @@ namespace _2048game
             InitializeComponent();
             lst.ItemsSource = map;
         }
+        private void Init()
+        {
+            for (int i = 0; i < COUNT; i++)
+            {
+                map[i] = new string[COUNT];
+                for (int j = 0; j < COUNT; j++)
+                {
+                    map[i][j] = "";
+                }
+            }
 
-       
+            genRandom();
+        }
+
+
+        private void genRandom()
+        {
+            List<int[]> available = new List<int[]>();
+
+            for (int i = 0; i < COUNT; i++)
+            {
+                for (int j = 0; j < COUNT; j++)
+                {
+                    if (map[i][j] == "")
+                    {
+                        available.Add(new int[] { i, j });
+                    }
+                }
+            }
+
+            Random random = new Random();
+            int[] position = available[random.Next(available.Count())];
+            map[position[0]][position[1]] = random.Next(1) == 0 ? "2" : "4";
+        }
+
     }
 }
