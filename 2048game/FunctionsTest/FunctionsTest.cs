@@ -13,6 +13,7 @@ namespace FunctionsTest
             Function function = new Function();
             Assert.IsNotNull(function);
         }
+        [TestMethod]
         public void mergeTest ()
         {
             Function function = new Function();
