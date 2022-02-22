@@ -1,0 +1,6 @@
+D:\GitHub\Сryptography_Algorithms_C#\DiffieHellman_Algorithm\bin\Debug\DiffieHellman_Algorithm.exe.config
+D:\GitHub\Сryptography_Algorithms_C#\DiffieHellman_Algorithm\bin\Debug\DiffieHellman_Algorithm.exe
+D:\GitHub\Сryptography_Algorithms_C#\DiffieHellman_Algorithm\bin\Debug\DiffieHellman_Algorithm.pdb
+D:\GitHub\Сryptography_Algorithms_C#\DiffieHellman_Algorithm\obj\Debug\DiffieHellman_Algorithm.csproj.CoreCompileInputs.cache
+D:\GitHub\Сryptography_Algorithms_C#\DiffieHellman_Algorithm\obj\Debug\DiffieHellman_Algorithm.exe
+D:\GitHub\Сryptography_Algorithms_C#\DiffieHellman_Algorithm\obj\Debug\DiffieHellman_Algorithm.pdb
