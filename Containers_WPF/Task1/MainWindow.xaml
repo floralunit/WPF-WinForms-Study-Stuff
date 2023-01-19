@@ -1,0 +1,18 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="Вариант 1" Height="286.926" Width="228.211">
+    <WrapPanel Orientation="Vertical" Margin="0,0,2,2">
+        <TextBlock Background="LightGoldenrodYellow" Margin="10">Введите число:</TextBlock>
+        <TextBox x:Name="textBox_Number" Background="LightBlue" Margin="10"></TextBox>
+        <Button x:Name="res_button" Background="LightGoldenrodYellow" Margin="10" Height="20" Content="Рассчитать" Click="Res_button_Click" />
+        <Label x:Name="krat3_label" Content="" />
+        <Label x:Name="chet_label" Content="" />
+        <Label x:Name="sum_label" Content="" />
+        <Label x:Name="mult_label" Content="" />
+    </WrapPanel>
+</Window>

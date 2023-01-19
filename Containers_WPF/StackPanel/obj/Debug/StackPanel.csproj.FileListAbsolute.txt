@@ -1,0 +1,13 @@
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel_MarkupCompile.cache
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel.g.resources
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel.Properties.Resources.resources
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\Grid\StackPanel\bin\Debug\StackPanel.exe.config
+C:\Users\floralunit\source\repos\Grid\StackPanel\bin\Debug\StackPanel.exe
+C:\Users\floralunit\source\repos\Grid\StackPanel\bin\Debug\StackPanel.pdb
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel.exe
+C:\Users\floralunit\source\repos\Grid\StackPanel\obj\Debug\StackPanel.pdb
