@@ -1,0 +1,14 @@
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\bin\Debug\WebResponse_2.exe.config
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\bin\Debug\WebResponse_2.exe
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\bin\Debug\WebResponse_2.pdb
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\MainWindow.g.cs
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\App.g.cs
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2_MarkupCompile.cache
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2_MarkupCompile.lref
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\MainWindow.baml
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2.g.resources
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2.Properties.Resources.resources
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2.csproj.GenerateResource.cache
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2.csproj.CoreCompileInputs.cache
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2.exe
+C:\Users\anya7\source\repos\NetworkProgramming\WebResponse_2\obj\Debug\WebResponse_2.pdb
