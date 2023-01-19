@@ -1,0 +1,14 @@
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\bin\Debug\ImageList.exe
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\bin\Debug\ImageList.pdb
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList_MarkupCompile.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList_MarkupCompile.lref
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList.g.resources
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList.exe
+C:\Users\floralunit\source\repos\ControlElements_WPF\ImageList\obj\Debug\ImageList.pdb

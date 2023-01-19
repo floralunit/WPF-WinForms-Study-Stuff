@@ -1,0 +1,14 @@
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\bin\Debug\TextBox.exe.config
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\bin\Debug\TextBox.exe
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\bin\Debug\TextBox.pdb
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox_MarkupCompile.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox_MarkupCompile.lref
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox.g.resources
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox.exe
+C:\Users\floralunit\source\repos\ControlElements_WPF\TextBox\obj\Debug\TextBox.pdb
