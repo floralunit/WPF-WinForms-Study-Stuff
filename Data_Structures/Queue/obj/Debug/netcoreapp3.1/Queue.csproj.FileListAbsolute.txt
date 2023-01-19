@@ -1,0 +1,13 @@
+C:\Users\anya7\Desktop\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\anya7\Desktop\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\anya7\Desktop\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\anya7\Desktop\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\anya7\Desktop\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\anya7\Desktop\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\anya7\Desktop\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
