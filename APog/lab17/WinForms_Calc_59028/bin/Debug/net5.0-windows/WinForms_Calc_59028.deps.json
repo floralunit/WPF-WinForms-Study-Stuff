@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinForms_Calc_59028/1.0.0": {
+        "dependencies": {
+          "СlassLib_Calc_59028": "1.0.0"
+        },
+        "runtime": {
+          "WinForms_Calc_59028.dll": {}
+        }
+      },
+      "СlassLib_Calc_59028/1.0.0": {
+        "runtime": {
+          "СlassLib_Calc_59028.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms_Calc_59028/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "СlassLib_Calc_59028/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

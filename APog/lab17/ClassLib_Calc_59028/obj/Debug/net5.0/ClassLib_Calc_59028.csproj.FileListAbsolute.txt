@@ -1,0 +1,24 @@
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\bin\Debug\net5.0\ClassLib_Calc_59028.deps.json
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\bin\Debug\net5.0\ClassLib_Calc_59028.dll
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\bin\Debug\net5.0\ref\ClassLib_Calc_59028.dll
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\bin\Debug\net5.0\ClassLib_Calc_59028.pdb
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.csprojAssemblyReference.cache
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.AssemblyInfoInputs.cache
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.AssemblyInfo.cs
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.dll
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ref\ClassLib_Calc_59028.dll
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.pdb
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.Properties.Resources.resources
+C:\Users\anya7\Desktop\Учёба\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.csproj.GenerateResource.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.csprojAssemblyReference.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.Properties.Resources.resources
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.csproj.GenerateResource.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.AssemblyInfoInputs.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.AssemblyInfo.cs
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.dll
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ref\ClassLib_Calc_59028.dll
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\ClassLib_Calc_59028\obj\Debug\net5.0\ClassLib_Calc_59028.pdb
