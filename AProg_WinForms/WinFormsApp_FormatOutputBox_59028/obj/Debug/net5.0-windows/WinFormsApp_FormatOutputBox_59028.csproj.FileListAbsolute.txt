@@ -1,0 +1,38 @@
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.exe
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.deps.json
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.runtimeconfig.json
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.runtimeconfig.dev.json
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\ref\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.pdb
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.csprojAssemblyReference.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.Form_Main.resources
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.csproj.GenerateResource.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.AssemblyInfoInputs.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.AssemblyInfo.cs
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\ref\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.pdb
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.genruntimeconfig.cache
+C:\Users\anya7\Desktop\Учёба\Прикладное программирование\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.Properties.Resources.resources
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.exe
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.deps.json
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.runtimeconfig.json
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.runtimeconfig.dev.json
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\ref\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\bin\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.pdb
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.csprojAssemblyReference.cache
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.form_Main.resources
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.Properties.Resources.resources
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.csproj.GenerateResource.cache
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.AssemblyInfoInputs.cache
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.AssemblyInfo.cs
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\ref\WinFormsApp_FormatOutputBox_59028.dll
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.pdb
+C:\Users\anya7\Documents\GitHub\AProg\WinFormsApp_FormatOutputBox_59028\obj\Debug\net5.0-windows\WinFormsApp_FormatOutputBox_59028.genruntimeconfig.cache
