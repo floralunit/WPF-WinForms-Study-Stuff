@@ -1,0 +1,14 @@
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\bin\Debug\PropertiesInMarkUp.exe.config
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\bin\Debug\PropertiesInMarkUp.exe
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\bin\Debug\PropertiesInMarkUp.pdb
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp_MarkupCompile.cache
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp_MarkupCompile.lref
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.g.resources
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.Properties.Resources.resources
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.exe
+C:\Users\floralunit\source\repos\TestProject1\PropertiesInMarkUp\obj\Debug\PropertiesInMarkUp.pdb

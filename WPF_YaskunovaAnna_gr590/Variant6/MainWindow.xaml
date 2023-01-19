@@ -1,0 +1,16 @@
+﻿<Window x:Class="Variant6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Variant6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="129.081" Width="309.493">
+    <Grid Margin="0,0,2,-20">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="177,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Введите величину в байтах:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.605,-1"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.237,-2.962" Width="287"/>
+        <Button x:Name="button" Content="Рассчитать" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="287" Click="Button_Click"/>
+
+    </Grid>
+</Window>
